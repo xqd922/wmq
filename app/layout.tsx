@@ -14,7 +14,7 @@ import { seo } from '~/lib/seo'
 export const metadata: Metadata = {
   metadataBase: seo.url,
   title: {
-    template: '%s | Cali Castle',
+    template: '%s | Xqd',
     default: seo.title,
   },
   description: seo.description,
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: {
       default: seo.title,
-      template: '%s | Cali Castle',
+      template: '%s | Xqd',
     },
     description: seo.description,
     siteName: 'Cali Castle',
